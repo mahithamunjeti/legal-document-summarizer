@@ -43,18 +43,6 @@ Put your target legal PDF document in the project folder.
 5. Run the Script
 python summarize_pdf.py
 
-Example Output
-
-📃 Short Summary:
-
-Confidential Information includes proprietary and confidential information with commercial value or utility.
-
-The Receiving Party must keep confidential information confidential and restrict access to employees and third parties.
-
-The Receiving Party must obtain prior written approval from the Disclosing Party before using, publishing, or disclosing confidential information.
-
-The nondisclosure provisions survive beyond the end of the agreement and remain in effect until the confidential information is no longer a trade secret.
-
 Requirements
 
 pdfplumber
